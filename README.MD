@@ -37,3 +37,10 @@ A simple generative AI chatbot built using Flask and OpenAI's GPT model. This ch
    ```bash
    git clone https://github.com/sktut/generative-ai-chatbot.git
    cd generative-ai-chatbot
+
+### Usage
+
+1. Run the chatbot:
+   ```bash
+   python bot.py
+  
